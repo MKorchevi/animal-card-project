@@ -1,0 +1,23 @@
+#general {
+	padding-left:20px;
+	padding-right:20px;
+	border:2px solid blue;
+	width:300px;
+	margin:0 auto;
+	border-radius: 20px;
+	box-shadow:2px 2px #eee;
+	background-color: #C8E4FE;
+	text-align: justify;
+}
+#introduction .title {
+	font-family: verdana;
+	padding:0;
+	margin:0;
+}
+.image{
+	border-radius: 20px;
+}
+#description .italic{
+	font-style: italic;
+
+}
